@@ -49,7 +49,7 @@ Enter the program format to be used ex. "python run.py"
 
 Contributors names and contact info:
 
-ex. Iain Fehr, Juan Enriquez Mendes, Sinan Abdulraheem, Seth Tharo Hour
+ex. Angel Escalera, Iain Fehr, Juan Enriquez Mendes, Sinan Abdulraheem, Seth Tharo Hour
 
 
 ## Acknowledgments
