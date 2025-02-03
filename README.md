@@ -55,5 +55,5 @@ ex. Iain Fehr, Juan Enriquez Mendes, Sinan Abdulraheem, Seth Tharo Hour
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Unreal Engine](https://chatgpt.com/share/6755ffda-20e0-8001-8c2b-22062c09bce3](https://www.unrealengine.com/en-US)
-* [wikipedia](https://chatgpt.com/share/6755ffda-20e0-8001-8c2b-22062c09bce3](https://en.wikipedia.org/wiki/Triple_Triad)
+* [Unreal Engine](https://chatgpt.com/share/6755ffda-20e0-8001-8c2b-22062c09bce3](https://www.unrealengine.com/en-US )
+* [wikipedia](https://chatgpt.com/share/6755ffda-20e0-8001-8c2b-22062c09bce3](https://en.wikipedia.org/wiki/Triple_Triad )
