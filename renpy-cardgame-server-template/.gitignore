@@ -1,0 +1,18 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore SQLite database file
+*.db
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+__pycache__/
+.venv/
+instance/database.db
+*.pyc
+.env
