@@ -8,7 +8,7 @@ init python:
             if response.status_code == 200:
                 return response.text
             else:
-                return ip =  response.text
+                return "Unknown IP Failed to fetch IP address"
         except:
             return "Unknown IP Failed to fetch IP address"
 
@@ -18,6 +18,7 @@ init python:
             response = requests.get(f"http://{ip}/ping")
             if response.status_code == 200:
                 return response.json().get("status") == "ok"
+                
             else:
                 return excecpt("Server not reachable")
                 
